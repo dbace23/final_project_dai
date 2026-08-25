@@ -1,0 +1,5 @@
+streamlit>=1.40,<2
+google-cloud-bigquery>=3.25,<4
+google-genai>=2.0,<3
+openai>=1.50,<3
+pypdf>=5.0,<7
