@@ -1,3 +1,11 @@
+# Links
+**ppt**: https://docs.google.com/presentation/d/13HbRZhmr1Bg0hc_kEEyqjQHmkGunCDlK3Kj5id-Lt9I/edit?slide=id.g3fac66cf20a_0_0#slide=id.g3fac66cf20a_0_0
+**url**:https://term-deposit-advisor-3rfhu5n4pq-as.a.run.app/
+
+note: 
+1. docker will run tapi butuh akses untuk ke DB bq
+2. url will be live until 09/10/2026
+   
 # Term-Deposit AI
 
 Streamlit app with two BigQuery-authorized modules:
